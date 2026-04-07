@@ -41,18 +41,19 @@
 ![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubhamkumar2703&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubhamkumar2703&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar2703&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shubhamkumar2703&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Shubhamkumar2703&theme=tokyonight&hide_border=false&cache_seconds=86400)
+![](https://streak-stats.demolab.com?user=Shubhamkumar2703&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar2703&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubhamkumar2703&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## 🔝 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar2703&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+## 🏆 Achievements
+- 🚀 Built multiple full-stack projects (React + Spring Boot + MongoDB)
+- 💻 Practicing DSA in Java
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubhamkumar2703&icon=0&color=13)](https://visitcount.itsvg.in)
